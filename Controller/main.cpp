@@ -3,7 +3,7 @@
 #include <RF24.h>
 #include <nRF24L01RT.h>
 
-// CONNOR WINDISH
+// CONNOR W
 
 class nRF24L01Transmitter{
     public:
