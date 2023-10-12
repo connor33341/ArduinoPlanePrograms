@@ -1,4 +1,4 @@
-// Connor Windish
+// Connor W
 // Project: Applied Tech, Rc Airplane
 // Purpose: Wireless Communication Control
 
