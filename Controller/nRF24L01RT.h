@@ -1,4 +1,4 @@
-// CONNOR WINDISH
+// CONNOR W
 // Module Requirements:
 // 1. Imported Modules
 // 2. Serial Connection (Temporay, needed for quick connect code)
